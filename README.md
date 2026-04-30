@@ -19,11 +19,8 @@ To analyze product profitability and support decision-making using interactive d
 - Profit trend over time (line chart)
 
 ###  Dashboard Preview
-
-
-<img width="1361" height="745" alt="Screenshot 2026-03-05 003711" src="https://github.com/user-attachments/assets/39fd9caf-4306-41bc-ab4d-a3a7073790af" />
-<img width="1424" height="937" alt="Screenshot 2026-03-04 235325" src="https://github.com/user-attachments/assets/12a0e48a-6468-4e5c-8c17-666c4d792ae9" />
-<img width="1624" height="928" alt="Screenshot 2026-03-04 231757" src="https://github.com/user-attachments/assets/b43dfd4f-e2ab-4859-8c89-e221a8e8b493" />
-<img width="1618" height="940" alt="Screenshot 2026-03-04 223426" src="https://github.com/user-attachments/assets/5ea9a7ae-ed70-4e57-9634-e82b5151a954" />
-<img width="1621" height="900" alt="Screenshot 2026-03-04 222418" src="https://github.com/user-attachments/assets/e085dcf9-d164-4ca7-b9f2-eead071aee65" />
-
+<img width="1388" height="786" alt="Screenshot 2026-04-30 023439" src="https://github.com/user-attachments/assets/2fee59ca-684e-45f3-bdac-6274a2bc0971" />
+<img width="1649" height="922" alt="Screenshot 2026-04-30 023419" src="https://github.com/user-attachments/assets/70a884c0-39b1-4f87-b620-29a9437e8177" />
+<img width="1424" height="937" alt="Screenshot 2026-03-04 235325" src="https://github.com/user-attachments/assets/3f3f3ae9-d7c0-416a-b237-619810303e8a" />
+<img width="1618" height="940" alt="Screenshot 2026-03-04 223426" src="https://github.com/user-attachments/assets/c6174439-1059-4f72-9524-09ef45b0bde2" />
+<img width="1621" height="900" alt="Screenshot 2026-03-04 222418" src="https://github.com/user-attachments/assets/124a6572-0f57-4823-aef5-2db7601bde32" />
